@@ -1,5 +1,5 @@
 cask "zublime" do
-  version "0.220.0"
+  version "0.1.1"
 
   on_arm do
     sha256 "PLACEHOLDER_SHA256_ARM64"

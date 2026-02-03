@@ -1,9 +1,9 @@
 cask "zublime" do
-  version "0.1.1"
+  version "0.1.2"
 
   depends_on arch: :arm64
 
-  sha256 "a07979a9a8f022094853dfc11cfcbc386ad01c4f0348ddbba9ebded01b03425c"
+  sha256 "b9018a92fd105a9038d05645daa543b28ed77d4de497adee7200fbfd81a877ad"
   url "https://github.com/lydakis/zublime/releases/download/v#{version}/Zublime-aarch64.dmg"
 
   name "Zublime"

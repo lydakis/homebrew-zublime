@@ -3,7 +3,7 @@ cask "zublime" do
 
   depends_on arch: :arm64
 
-  sha256 "8c6887d86e3191e0f7b7d5d634176448850aeb317d3b988df31f4a2179f31d2b"
+  sha256 "a07979a9a8f022094853dfc11cfcbc386ad01c4f0348ddbba9ebded01b03425c"
   url "https://github.com/lydakis/zublime/releases/download/v#{version}/Zublime-aarch64.dmg"
 
   name "Zublime"
